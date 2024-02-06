@@ -24,7 +24,10 @@ while (attempts > 0 && attempts <= 3) {
     console.log("YOU WON!!");
     break;
   }
-  if (attempts === 0) {
+  if (attempts == 0) {
     console.log("Game Over!!");
   }
 }
+
+
+ 
